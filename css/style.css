@@ -6,9 +6,9 @@ body, html {
   display: block;
   text-align: center;
   background-image: url(../images/white-wood.jpg);
-  background-repeat: no-repeat;
+  background-repeat: no-repeat fixed;
   background-size: contain;
-  background: linear-gradient(to right, #FFF, #000)
+
 }
 
 .container, h1 {
