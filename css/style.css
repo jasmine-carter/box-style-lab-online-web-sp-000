@@ -54,6 +54,9 @@ h4.indifferent {
   box-shadow: -1px 1px #6e2222, -2px 2px #6e2222, -3px 3px #6e2222, -4px 4px #6e2222, -5px 5px #6e2222;
 }
 
+h4.dubious {
+  background-image: linear-gradient(to left, rgba(221,68,68), rgba(0,0,0,0.5));
+}
 .column {
   width: 30%;
   display: inline-block;
