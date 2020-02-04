@@ -33,9 +33,10 @@ h4 {
 
 }
 
-.amiable h4 {
+h4 .amiable {
   background: linear-gradient(to right, #FFF, #000)
 }
+
 .indifferent {
   border: 1px solid #b1b11b;
   background-color: #dddd22;
