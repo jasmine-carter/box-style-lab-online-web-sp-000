@@ -43,6 +43,11 @@ h4.amiable {
   box-shadow: -1px 1px #b1b11b, -2px 2px #b1b11b, -3px 3px #b1b11b, -4px 4px #b1b11b, -5px 5px #b1b11b;
 }
 
+h4.indifferent {
+  background-image: linear-gradient(to left, rgba(221,221,34), rgba(0,0,0, 0.5));
+
+}
+
 .dubious {
   background-color: #dd4444;
   border: 1px solid #6e2222;
